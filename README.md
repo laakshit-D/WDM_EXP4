@@ -19,7 +19,7 @@ To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ## Name : LAAKSHIT D
 ## Reg no : 212222230071
 ```
-```
+```py
 import pandas as pd
 
 df=pd.read_csv("C:\\Users\\admin\\Desktop\\SEM3\\WDM\\clustervisitor.csv")
@@ -51,7 +51,7 @@ plt.show()
 <img width="913" height="685" alt="image" src="https://github.com/user-attachments/assets/6df1818d-f03c-4c50-8a9b-fb9776e61997" />
 
 ### Program 2:
-```
+```py
 df=pd.read_csv(r"C:\Users\admin\Desktop\SEM3\WDM\clustervisitor (Salary).csv")
 
 df1=df['Age']
